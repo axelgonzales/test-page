@@ -1,0 +1,55 @@
+body{
+background-image: url(Alexterror/imagenes/fondo.jpg);
+background-size: cover;
+}
+.titulo{
+    background-color: rgb(32, 238, 94);
+    padding:10px ;
+    margin: 20px auto;
+    width:300px ;
+    border: 2px solid black;
+    border-radius: 3px;
+    margin-top: 50px;
+}
+.conten{
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+.controles{
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 5px;
+    border:2.5px solid black
+}
+.conten2{
+    background-color: rgb(89, 207, 118);
+    border: 2px solid black;
+    padding: 30px;
+    margin: 20px auto;
+    margin-top: 150px;
+    width: 400px;
+    border-radius: 15px;
+}
+.content3{
+    text-align: center;
+    color: aliceblue;
+}
+.botons{
+    width:100%;
+    padding: 13px;
+    margin: 3px;
+    width: 100px;
+}
+.video{
+    position: relative;
+    left: 30%;
+}
+.audio{
+    
+}
+footer{
+    background-color: black;
+}
+
+    
